@@ -422,6 +422,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .welcome-heading-container {
   width: 75%;
+  margin-top: 20px;
   margin-left: auto;
   margin-right: auto;
   position: relative;
