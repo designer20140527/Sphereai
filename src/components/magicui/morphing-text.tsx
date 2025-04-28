@@ -93,6 +93,6 @@ export function MorphingText({
           {textArray[currentIndex]}
         </span>
       </div>
-    </div>
-  );
+  </div>
+);
 }
