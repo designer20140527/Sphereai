@@ -83,20 +83,30 @@ const Header = () => {
         </div>
         
         <div className="header-buttons">
-          <Link 
-            href="https://t.me/Sphere_ai_Official" 
-            target="_blank" 
-            className="btn btn-outline btn-animated"
+          <a
+            href="https://t.me/Sphere_ai_"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn btn-white btn-animated"
           >
             <span className="btn-text">Telegram</span>
-          </Link>
-          <Link 
-            href="https://x.com/Sphere_ai_COIN" 
-            target="_blank" 
+          </a>
+          <a
+            href="https://twitter.com/Sphere_ai_"
+            target="_blank"
+            rel="noopener noreferrer"
             className="btn btn-white btn-animated"
           >
             <span className="btn-text">Twitter</span>
-          </Link>
+          </a>
+          <a
+            href="https://sphere-ai.gitbook.io/docs"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn btn-outline btn-animated"
+          >
+            <span className="btn-text">Docs</span>
+          </a>
         </div>
       </div>
     </header>
