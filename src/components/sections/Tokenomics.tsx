@@ -76,12 +76,7 @@ const Tokenomics = () => {
             <div className="tokenomics-block-inner">
               <h3 className="tokenomics-block-title">Token Allocation</h3>
               <ul className="tokenomics-list">
-                <li><strong>60%</strong> – Liquidity and Exchanges</li>
-                <li><strong>15%</strong> – Community Incentives</li>
-                <li><strong>10%</strong> – Developer and Ecosystem Fund</li>
-                <li><strong>5%</strong> – Marketing and Strategic Partnerships</li>
-                <li><strong>5%</strong> – Team and Advisors</li>
-                <li><strong>5%</strong> – DAO Treasury</li>
+                <li><strong>100%</strong> – Fair Launch</li>
               </ul>
             </div>
           </div>

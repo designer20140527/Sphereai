@@ -84,7 +84,7 @@ const Header = () => {
         
         <div className="header-buttons">
           <a
-            href="https://t.me/Sphere_ai_"
+            href="https://t.me/Sphere_ai_Portal"
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-white btn-animated"
@@ -92,7 +92,7 @@ const Header = () => {
             <span className="btn-text">Telegram</span>
           </a>
           <a
-            href="https://twitter.com/Sphere_ai_"
+            href="https://x.com/Sphereai_"
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-white btn-animated"
